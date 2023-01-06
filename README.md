@@ -1,6 +1,6 @@
 ### Oie! Eu sou a Raquel Souza ❤
 
-- Estando Backend
+- Estudando programação em Backend
 - Pronouns: ela/dela
 
 <div align="center">
@@ -21,6 +21,6 @@
   target="_blank"></a>
  <a href="https://discord.gg/Raquel Andrade#7016" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
  target="_blank"></a>
-  <a href="https://www.linkedin.com/in/Raquel Andrade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/raquel-andrade-5ba993252" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
