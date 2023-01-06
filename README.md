@@ -1,6 +1,5 @@
 ### Oie! Eu sou a Raquel Souza ❤
 
-- Hoje trabalho em uma empresa de software 
 - Estando Backend
 - Pronouns: ela/dela
 
